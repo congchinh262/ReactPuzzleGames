@@ -1,0 +1,21 @@
+.containerG15P {
+    display: grid;
+    grid-gap: 20px;
+    justify-content: center;
+    padding: 20px;
+  }
+  .squareG15P {
+    border: 2px solid darkblue;
+    color: darkviolet;
+    background-color: cyan;
+    font-size: 40px;
+    display : flex;
+    align-items : center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  .isCorrectG15P {
+    border: 2px solid darkgreen;
+    color: green;
+    background-color: lightgreen;
+  }
